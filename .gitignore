@@ -1,0 +1,4 @@
+*.cpp
+*.app/
+test-svg
+.DS_Store
